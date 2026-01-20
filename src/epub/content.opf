@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1605</dc:source>
 		<dc:source>https://archive.org/details/b1109137</dc:source>
-		<meta property="se:word-count">56332</meta>
+		<meta property="se:word-count">55740</meta>
 		<meta property="se:reading-ease.flesch">76.45</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Crock_of_Gold_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/james-stephens_the-crock-of-gold</meta>
