@@ -59,12 +59,13 @@
 		<link href="https://github.com/standardebooks/james-stephens_the-crock-of-gold" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">James Stephens</dc:creator>
 		<meta property="file-as" refines="#author">Stephens, James</meta>
+		<meta property="schema:alternateName" refines="#author">James Esse</meta>
 		<link href="https://en.wikipedia.org/wiki/James_Stephens_(author)" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n79109238.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="artist">Arnold Böcklin</dc:contributor>
 		<meta property="file-as" refines="#artist">Böcklin, Arnold</meta>
-		<link href="https://en.wikipedia.org/wiki/Arnold_Böcklin" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Arnold_B%C3%B6cklin" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n50010065.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Anonymous</dc:contributor>
@@ -73,6 +74,7 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-2" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alejandro Muñoz</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Muñoz, Alejandro</meta>
